@@ -1,5 +1,5 @@
-venv
+*.venv
 *.log
 *.pyc
 .idea
-key
+*.key
